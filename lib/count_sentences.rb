@@ -18,3 +18,4 @@ class String
     number_of_sentences = self.split.count
   end
 end
+ # not finished. I'll come back to it. 
